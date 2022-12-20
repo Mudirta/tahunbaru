@@ -46,4 +46,15 @@ canvas {
 
 
 }
+@media screen and (max-width: 768px) {
+    nav ul {
+    width: 50%;
+    }
+}
+/* ukuran mobile */
+@media screen and (max-width: 768px) {
+    nav ul {
+    display: none;
+    }
+}
 
