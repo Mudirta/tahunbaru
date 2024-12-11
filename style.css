@@ -42,8 +42,8 @@ canvas {
   color: beige;
   margin-left: 5px;
   margin-right: 5px;
-  top: 80px;
-  z-index: 1;
+  top: 150px;
+  z-index: 100;
 }
 .lang{
   position: absolute;
