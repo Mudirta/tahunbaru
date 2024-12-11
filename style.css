@@ -35,14 +35,14 @@ canvas {
   top: 100px;
   z-index: 1;
 }
-.marq1{
+.marq2{
   position: absolute;
   justify-content: center;
   align-items: center;
   color: beige;
   margin-left: 5px;
   margin-right: 5px;
-  top: 100px;
+  top: 150px;
   z-index: 1;
 }
 .lang{
