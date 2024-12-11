@@ -43,7 +43,7 @@ canvas {
   margin-left: 5px;
   margin-right: 5px;
   top: 150px;
-  z-index: 100;
+  z-index: -1;
 }
 .lang{
   position: absolute;
